@@ -767,7 +767,7 @@
     "note": "Famous Okinawan resilience phrase. (Set 4)",
     "id": 77,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "dialect": "にふぇーでーびる",
@@ -776,7 +776,7 @@
     "region": "Okinawa",
     "note": "Okinawan gratitude expression. (Set 4)",
     "id": 78,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
