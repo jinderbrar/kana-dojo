@@ -285,7 +285,7 @@
     "meaning": "Requires considerable effort. (Set 2)",
     "id": 32,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "気が進まない",
@@ -321,7 +321,7 @@
     "meaning": "Wait eagerly. (Set 2)",
     "id": 36,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "水に流す",
@@ -330,7 +330,7 @@
     "meaning": "Let bygones be bygones. (Set 2)",
     "id": 37,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "念には念を入れる",
@@ -339,7 +339,7 @@
     "meaning": "Take extra care. (Set 2)",
     "id": 38,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "立つ鳥跡を濁さず",
@@ -357,7 +357,7 @@
     "meaning": "Obtain something. (Set 2)",
     "id": 40,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "猫の手も借りたい",
@@ -366,7 +366,7 @@
     "meaning": "Extremely busy and desperate for help. (Set 3)",
     "id": 41,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "頭が上がらない",
@@ -384,7 +384,7 @@
     "meaning": "Slow to start doing something. (Set 3)",
     "id": 43,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "顔が広い",
@@ -393,7 +393,7 @@
     "meaning": "Have many connections. (Set 3)",
     "id": 44,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "口が堅い",
@@ -402,7 +402,7 @@
     "meaning": "Can keep secrets. (Set 3)",
     "id": 45,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "気が短い",
@@ -429,7 +429,7 @@
     "meaning": "Do less than one should. (Set 3)",
     "id": 48,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "目がない",
@@ -438,7 +438,7 @@
     "meaning": "Have a weakness for something. (Set 3)",
     "id": 49,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "耳が早い",
@@ -447,7 +447,7 @@
     "meaning": "Quick to hear news/gossip. (Set 3)",
     "id": 50,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "足を引っ張る",
@@ -456,7 +456,7 @@
     "meaning": "Hold someone back. (Set 3)",
     "id": 51,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "骨が折れる",
@@ -482,7 +482,7 @@
     "english": "Expand chest",
     "meaning": "Be proud/confident. (Set 3)",
     "id": 54,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
